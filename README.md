@@ -23,12 +23,10 @@ Cura is an intelligent chatbot designed to provide **instant, personalized healt
 | **Component**         | **Technologies/Tools**                                                                 |
 |------------------------|----------------------------------------------------------------------------------------|
 | **NLP**               | TF-IDF, Cosine Similarity, `scikit-learn`, `nltk`                                      |
-| **Machine Learning**  | `scikit-learn`, `TensorFlow`, `PyTorch` (optional)                                     |
-| **Dataset**           | CSV/Excel, `pandas`                                                                    |
-| **Backend**           | Python, Flask/FastAPI, SQLite/PostgreSQL/MongoDB                                       |
-| **Frontend**          | HTML/CSS/JavaScript, React.js/Vue.js/Angular, React Native/Flutter (for mobile)        |
-| **Deployment**        | AWS/Google Cloud/Azure, Docker, CI/CD pipelines                                        |
-| **Advanced Features** | BERT/GPT, Sentiment Analysis, Multilingual Support, Health APIs, Chat Platform Integrations |
+| **Machine Learning**  | `scikit-learn`                                                                         |
+| **Dataset**           | CSV, `pandas` , Numpy                                                                    |
+| **Backend**           | Python, Flask/FastAPI                                                                    |
+| **Frontend**          | HTML/CSS/JavaScript                                                                      |  
 
 ---
 

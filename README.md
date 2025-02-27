@@ -35,5 +35,5 @@ Cura is an intelligent chatbot designed to provide **instant, personalized healt
 ## Installation 🚀
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cura.git
+   git clone https://github.com/pravee1892000/CURA.git
    cd cura

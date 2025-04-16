@@ -27,6 +27,7 @@ Cura is an intelligent chatbot designed to provide **instant, personalized healt
 | **Dataset**           | CSV, `pandas` , `numpy`                                                                     |
 | **Backend**           | Python, Flask/FastAPI                                                                    |
 | **Frontend**          | HTML/CSS/JavaScript                                                                      |  
+| **Deployment**   | Local Server (Flask), Render:- https://ai-cura.onrender.com/                     |
 
 ---
 
